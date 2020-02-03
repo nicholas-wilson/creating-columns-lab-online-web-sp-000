@@ -67,7 +67,7 @@ img:hover {
   height: auto;
 }
 
-.column #1{
+.column #item-1{
   grid-column-start: 1;
   grid-column-end: 2;
 }
