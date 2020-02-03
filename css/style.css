@@ -67,42 +67,42 @@ img:hover {
   height: auto;
 }
 
-.column #item-1 {
+.amiable #item-1 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 2;
 }
 
-.column #item-2 {
+.amiable #item-2 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 2;
   grid-row-end: 3;
 }
 
-.column #item-3 {
+.amiable #item-3 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 3;
   grid-row-end: 4;
 }
 
-.column #item-4 {
+.amiable #item-4 {
   grid-column-start: 2;
   grid-column-end: 4;
   grid-row-start: 1;
   grid-row-end: 3;
 }
 
-.column #item-5 {
+.amiable #item-5 {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row-start: 3;
   grid-row-end: 4;
 }
 
-.column #item-6 {
+.amiable #item-6 {
   grid-column-start: 3;
   grid-column-end: 4;
   grid-row-start: 3;
