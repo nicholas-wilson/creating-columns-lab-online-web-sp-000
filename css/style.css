@@ -59,6 +59,10 @@ img:hover {
   column-width: 32%;
   float: none;
 }
+
+.col-3 {
+  float: right;
+}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100px;
