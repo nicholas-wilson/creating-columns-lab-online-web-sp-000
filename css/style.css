@@ -51,16 +51,7 @@ img:hover {
   display: grid;
   column-width: 32%;
 }
-.col-1 {
-  float: left;
-}
 
-.col-2 {
-  float: none;
-}
-
-.col-3 {
-}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100px;
@@ -74,4 +65,15 @@ img:hover {
 
 .large {
 
+}
+
+.col-1 {
+  float: left;
+}
+
+.col-2 {
+  float: none;
+}
+
+.col-3 {
 }
