@@ -67,9 +67,16 @@ img:hover {
   height: auto;
 }
 
-.column #item-1{
+.column #item-1 {
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 2;
+}
+
+.column #item-4 {
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
 }
