@@ -52,7 +52,7 @@ img:hover {
 }
 .col-1 {
   column-width: 32%;
-  float: right;
+  float: left;
 }
 
 .col-2 {
