@@ -74,6 +74,13 @@ img:hover {
   grid-row-end: 2;
 }
 
+.column #item-2 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
 .column #item-4 {
   grid-column-start: 2;
   grid-column-end: 4;
