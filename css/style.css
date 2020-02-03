@@ -53,6 +53,10 @@ img:hover {
 .col-1 {
   column-width: 32%;
 }
+
+.col-2 {
+  column-width: 32%;
+}
 /* create your tile classes! we recommend .small .med .large */
 .small {
   width: 100px;
