@@ -50,7 +50,7 @@ img:hover {
 .column {
   display: grid;
   grid-template-columns: auto;
-  grid-auto-rows: 2em;
+  grid-auto-rows: auto;
   grid-gap: .5em;
 
 }
